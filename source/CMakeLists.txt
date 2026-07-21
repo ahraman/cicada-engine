@@ -5,4 +5,5 @@ project("CkdEngine")
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED true)
 
+add_subdirectory(cicada-core)
 add_subdirectory(cicada)
