@@ -1,0 +1,7 @@
+# CMake
+/build
+/install
+/**/CMakeUserPresets.json
+
+# editor files
+/.vscode
